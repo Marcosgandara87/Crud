@@ -1,0 +1,22 @@
+{
+  "perfil": [
+    {
+      "nombre": "Marcos",
+      "email": "Marcos@mail.com",
+      "id": "a5dd20dd-64d6-4e1d-90a9-1eca5a7aa239",
+      "estado": true
+    },
+    {
+      "nombre": "Nina",
+      "email": "Nina@mail.com",
+      "id": "8456030a-c2a4-44c6-ad15-e2037f9689e4",
+      "estado": true
+    },
+    {
+      "nombre": "Naidi",
+      "email": "naidi@mail.com",
+      "id": "e5aafc1a-4d06-4bff-9c39-2465dc3225b1",
+      "estado": true
+    }
+  ]
+}
